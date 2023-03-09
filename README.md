@@ -1,7 +1,6 @@
 ### Olá, eu sou Joab Urbano 👋
 
-- 🌱 Estudando Vue 3
-- 📖 Cursando BTI no Instituto Metrópole Digital UFRN
+- 📖 Cursando Bacharelado em Tecnologia da Informação (BTI) no Instituto Metrópole Digital UFRN, Técnico em Informática pelo IFRN Campus Parnamirim.
 - 📫 E-mail para contato: joab.uaraujo@gmail.com
 
 <div style="display: inline_block"><br>
