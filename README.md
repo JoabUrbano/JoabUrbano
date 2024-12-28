@@ -1,19 +1,35 @@
-### Olá, eu sou Joab Urbano 👋
+### Hi!! I'm Joab Urbano 👋
 
-- 📖 Cursando Bacharelado em Tecnologia da Informação (BTI) no Instituto Metrópole Digital UFRN, Técnico em Informática pelo IFRN Campus Parnamirim.
-- 📫 E-mail para contato: joab.uaraujo@gmail.com
+<h2>📖 My academic background</h2>
+- Student of Bacharelado em Tecnologia da Informação (BTI) no Instituto Metrópole Digital UFRN<br>
+- Computer technician at IFRN Campus Parnamirim<br>
+- Cisco Networking Academy - Introduction to Internet of Things<br>
+- Cisco Networking Academy - Cybersecurity Essentials<br>
+- IMD Metrópole Digital - Programa de Estudos Secundário (PES) Internet of Things<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Joab-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Joab-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-  <img align="center" alt="Joab-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
+<h2>📫 How contact me</h2>
+- E-mail: joab.uaraujo@gmail.com
+
+
+<h2>Languages</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c,cpp&perline=3)](https://skillicons.dev)
+<br>
+
+<h2>Tools</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,nodejs,nest,docker,grafana,arduino&perline=3)](https://skillicons.dev)
+<br>
+
+<h2>Some experience with</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
+<br>
+
+<h2>Experience with hardware platform</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=raspberrypi&perline=3)](https://skillicons.dev)
+<br>
 
 <div> 
   <a href = "mailto:joab.uaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
